@@ -62,7 +62,7 @@ function App() {
                 )}
                 {errors.firstName && (
                   <div className="absolute top-4 right-4">
-                    <img src="/images/icon-error.svg" alt="icon-error" />
+                    <img src="./images/icon-error.svg" alt="icon-error" />
                   </div>
                 )}
               </div>
@@ -87,7 +87,7 @@ function App() {
                 )}
                 {errors.lastName && (
                   <div className="absolute top-4 right-4">
-                    <img src="/images/icon-error.svg" alt="icon-error" />
+                    <img src="./images/icon-error.svg" alt="icon-error" />
                   </div>
                 )}
               </div>
@@ -115,7 +115,7 @@ function App() {
                 )}
                 {errors.email && (
                   <div className="absolute top-4 right-4">
-                    <img src="/images/icon-error.svg" alt="icon-error" />
+                    <img src="./images/icon-error.svg" alt="icon-error" />
                   </div>
                 )}
               </div>
@@ -140,7 +140,7 @@ function App() {
                 )}
                 {errors.password && (
                   <div className="absolute top-4 right-4">
-                    <img src="/images/icon-error.svg" alt="icon-error" />
+                    <img src="./images/icon-error.svg" alt="icon-error" />
                   </div>
                 )}
               </div>

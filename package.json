@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mpluggie7.github.io/femt-intro-component-with-signup-form",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",

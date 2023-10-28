@@ -32,7 +32,7 @@ Users should be able to:
 
 ![Desktop](./public/screenshots/screenshot-desktop.png)
 ![Desktop-active](./public/screenshots/screenshot-desktop-active.png)
-![Mobile](./public/screenshots/screenshot-mobile.png)
+![Mobile](./public/screenshots/screenshot-mobile.jpg)
 
 ### Links
 
